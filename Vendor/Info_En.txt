@@ -1,0 +1,12 @@
+0=Company:
+1=DONGGUAN THUNDER LASER EQUIPMENT CO.,LTD
+2=Telephone:
+3=+86 769 8266 5376
+4=Fax:
+5=tech@thunderlaser.com
+6=Address:
+7=Thunder Laser Tech Co.,LTD. Shatian Town, Shatian Dadao, Mintian,Dongguan City, Guangdong Province, China
+8=Website:
+9=www.thunderlaser.com
+10=soft title:
+11=THUNDER LASER
